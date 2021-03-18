@@ -1,4 +1,4 @@
-TOKEN = "SEU:TOKEN"
+TOKEN = "1493643486:AAH_gqpnyMRP3ifw29VVgzsTbqXRCindyqw"
 
 SUDOERS = [957539786, 957539786]
 TRD_CHAT = "@DextyOficial" do canal ou id
